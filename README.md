@@ -1,4 +1,5 @@
-Stranger
+Android App Framework
 ========
 
-IM project
+A framework with actionbar and SlidingMenu project.
+--------------
